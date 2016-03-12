@@ -2,6 +2,7 @@ name: mesearcher
 favicon: null
 layout_spectrum: 0.34031611145474017
 typography_spectrum: 0.720230603357777
+title: Mesearcher
 cta:
   domain: null
   bucket: null
