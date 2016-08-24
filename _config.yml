@@ -28,6 +28,9 @@ navigation:
   - name: 'Uh, test'
     id: 2d7877c6-3c80-4b11-a58c-4454faf65e64
     type: content
+  - name: Coop & Audge
+    id: db5620ec-1447-4121-a8f2-756c6d1a9db4
+    type: content
 favicon: null
 collections:
   - index:
