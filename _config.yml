@@ -1,5 +1,34 @@
-title: Mesearcher
-purpose: []
+typography_spectrum: 0.15915
+color:
+  saturation: 0
+  brandStrength: 0.875
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#000400'
+    - '#fefff9'
+    - '#936e2a'
+    - '#5a79b2'
+    - '#dbbb56'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: mesearcher
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: 'Uh, test'
+    id: 2d7877c6-3c80-4b11-a58c-4454faf65e64
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.875
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#000400'
-    - '#fefff9'
-    - '#936e2a'
-    - '#5a79b2'
-    - '#dbbb56'
-  lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: mesearcher
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.15915
-layout_spectrum: 1
+title: Mesearcher
+purpose: []
