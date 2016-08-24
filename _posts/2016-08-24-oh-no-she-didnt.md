@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T01:33:11.552Z'
-sourcePath: _posts/2016-08-24-oh-no-she-didnt.md
-author: []
-via: {}
-dateModified: '2016-08-24T01:33:10.964Z'
-title: ''
-publisher: {}
 description: 'Oh no she didn’t! '
+dateModified: '2016-08-24T01:33:06.257Z'
+datePublished: '2016-08-24T01:33:06.721Z'
+title: ''
+author: []
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-24-oh-no-she-didnt.md
 inFeed: true
 hasPage: false
 inNav: false
