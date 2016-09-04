@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Bob Spunt
+  email: bobspunt@gmail.com
+  url: bobspunt.com
 name: mesearcher
 cta:
   bucket: null
