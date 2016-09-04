@@ -1,4 +1,28 @@
-typography_spectrum: 0.15915
+name: mesearcher
+navigation:
+  - name: 'Uh, test'
+    id: 2d7877c6-3c80-4b11-a58c-4454faf65e64
+    type: content
+  - name: Coop & Audge
+    id: db5620ec-1447-4121-a8f2-756c6d1a9db4
+    type: content
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 0
   brandStrength: 0.875
@@ -10,39 +34,15 @@ color:
     - '#5a79b2'
     - '#dbbb56'
   lightness: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: mesearcher
 cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: 'Uh, test'
-    id: 2d7877c6-3c80-4b11-a58c-4454faf65e64
-    type: content
-  - name: Coop & Audge
-    id: db5620ec-1447-4121-a8f2-756c6d1a9db4
-    type: content
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 title: Mesearcher
 purpose: []
+favicon: null
+typography_spectrum: 0.15915
+analytics:
+  twitter: null
+  google: null
+  facebook: null
