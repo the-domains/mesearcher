@@ -10,6 +10,7 @@ color:
     - '#5a79b2'
     - '#dbbb56'
   lightness: 0
+github: true
 opengraph:
   image: null
   type: null
